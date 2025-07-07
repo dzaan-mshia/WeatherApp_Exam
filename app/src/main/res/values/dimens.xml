@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_bar_height">50dp</dimen>
+    <dimen name="general_padding">16dp</dimen>
+    <dimen name="extra_padding">32dp</dimen>
+    <dimen name="image_dimension">50dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="nav_bar_image_padding">10dp</dimen>
+    <dimen name="today_weather_img_dimension">100dp</dimen>
+    <dimen name="today_temp_text_size">48sp</dimen>
+    <dimen name="hourly_temp_text_size">24sp</dimen>
+</resources>

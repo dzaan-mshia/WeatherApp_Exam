@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="initial_country">Tbilisi</string>
+    <string name="weather_service_api_key">e8b54eb03d7f8e3f1c8ccf30b0d6be61</string>
+    <string name="unfetched_text">Loading...</string>
+    <string name="loading">Loading...</string>
+</resources>
